@@ -1,0 +1,2 @@
+wiresharkLocation=C:\LOCATION\Wireshark
+logLocation=C:\LOCATION\LogLocation
